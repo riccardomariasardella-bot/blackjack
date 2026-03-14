@@ -1,19 +1,25 @@
-# 🎈 Blank app template
+# 🎮 Blackjack Monte Carlo Simulator
 
-A simple Streamlit app template for you to modify!
+Web app interattiva per simulare strategie di Blackjack usando il metodo Monte Carlo.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## 🚀 Funzionalità
 
-### How to run it on your own machine
+- Gioco attivo di Blackjack con suggerimenti
+- Simulazioni Monte Carlo
+- Analisi delle probabilità
+- Interfaccia interattiva con Streamlit
 
-1. Install the requirements
+## 📊 Tecnologie utilizzate
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+- Python
+- Streamlit
+- Pandas
+- Monte Carlo Simulation
 
-2. Run the app
+## ▶️ Come eseguire il progetto
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+1. Clonare la repository
+
+```bash
+git clone [https://github.com/tuo-username/blackjack.git](https://supreme-happiness-pjvx7pqww45gfrjg5-8501.app.github.dev/)
+cd blackjack
