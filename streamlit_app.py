@@ -31,6 +31,5 @@ Web app interattiva per simulare strategie di Blackjack usando il metodo Monte C
 1. Clonare la repository
 
 ```text
-git clone https://github.com/tuo-username/blackjack.git
-cd blackjack
+https://supreme-happiness-pjvx7pqww45gfrjg5-8501.app.github.dev/
 """)
